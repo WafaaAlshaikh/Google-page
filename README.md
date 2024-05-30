@@ -14,8 +14,8 @@ As part of the training course offered by Udacity, we worked on a project to bui
 
 ### To run the project:
 1. install the project
-2. install life server
-3. open the project then use life server.
+2. install server
+3. open the project then use server.
 
   
 
